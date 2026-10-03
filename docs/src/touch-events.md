@@ -353,7 +353,7 @@ async function pinch(locator: Locator,
         clientY: centerY,
       },
       {
-        identifier: 0,
+        identifier: 1,
         clientX: centerX + offset,
         clientY: centerY,
       },
